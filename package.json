@@ -1,10 +1,10 @@
 {
 
-  "name": "OmniscienceBot",
+  "name": "test",
 
-  "description": "Bot for the Omniscience Demention",
+  "description": "test",
 
-  "version": "0.0.4",
+  "version": "0.0.0",
 
   "main": "bot.js",
 
