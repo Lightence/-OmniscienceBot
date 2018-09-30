@@ -24,6 +24,6 @@ client.on('message', message => {
 
  
 
-// THIS  MUST  BE  THIS  WAY
+
 
 client.login(process.env.NDk1NTU1MzYwNDk3NTk4NDc1.DpFkUA.B0UMLJ-F6XamLnN2_dUAtu0NPKY);
